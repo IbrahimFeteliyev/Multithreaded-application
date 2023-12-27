@@ -5,19 +5,28 @@ that organizes their concurrent work. Pay special attention to synchronization i
 
 
 output:
+
 Producer 3 produced: 27
+
 Consumer 2 consumed: 27
 
-Producer 2 produced: 43
+Producer 2 produced: 43 
+
 Consumer 1 consumed: 43
 
 Producer 1 produced: 37
+
 Producer 3 produced: 20
+
 Consumer 2 consumed: 20
+
 Consumer 1 consumed: 37
 
 Producer 1 produced: 45
+
 Producer 2 produced: 71
+
 Consumer 2 consumed: 71
+
 Consumer 1 consumed: 45
 
